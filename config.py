@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8776921304:AAEQuVUSfSPSzIogdKnh4-946lsA9KPk_Y8")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "9250437218:AAFJC4bjRSgO9AleYQOM4FBjpA4xnCBTF2c")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7373420615"))
 DATABASE_FILE = os.getenv("DATABASE_FILE", "bot_data.db")
 
